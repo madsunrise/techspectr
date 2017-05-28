@@ -570,3 +570,14 @@ A:hover.pr_adr
 	border: 1px solid #E92828;
 	color: #035619;
 }
+
+.device_block {
+	width: 500px;
+	margin-top: 50px;
+	border: 2px solid black;
+}
+
+.device_block__desc {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
