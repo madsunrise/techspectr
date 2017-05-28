@@ -1,0 +1,118 @@
+BODY {
+		PADDING-RIGHT: 0px;
+		PADDING-LEFT: 0px;
+		PADDING-BOTTOM: 0px;
+		MARGIN: 0px; TEXT-ALIGN: center;
+		PADDING-TOP: 0px; color: #000000;
+		font-family: Tahoma, Arial, Verdana, sans-serif;	font-size : 12px; text-align: left;
+	}
+#wrapper {	 WIDTH: 868px;  TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff; border-left: 1px solid #ffffff; border-right: 1px solid #ffffff;
+}
+#gmrgns {WIDTH: 868px; border-left: 1px solid #95C4A0; border-right: 1px solid #95C4A0;}
+td { color: #000000; font-family: Tahoma, Arial, Verdana, sans-serif; font-size : 12px;}
+
+#bg_prpage{BACKGROUND: url(images/bg_forprint.gif) top repeat-x #ffffff;}
+.tl_pr {height: 150px; padding-left: 30px;}
+
+.bg {BACKGROUND: url(images/bg.gif) top #E9FFEE; width:50px;}		
+.tmbg	 {BACKGROUND: url(images/bg_tm.gif) top repeat-x;}	
+.tmbg td{ padding: 0 9 0 2px; MARGIN:  0 0 0 0px; }
+
+.ufbg	{BACKGROUND: url(images/bg_undfl.gif) top repeat-x;}
+.flash 	{BACKGROUND: url(images/bg_fl1.gif) repeat-x; HEIGHT:106px;}
+.orn_b { BACKGROUND: url(images/bg_orng2.gif) top repeat-y; }	
+.orn_bt { BACKGROUND: url(images/bg_orng1.gif) top repeat-x; }
+.orn_bb { BACKGROUND: url(images/bg_orng3.gif) top repeat-x; }	
+.cnt { BACKGROUND-color: #ffffff; }	
+.tm { BACKGROUND-color: #ffffff; }	
+	
+A {
+	COLOR: #333333; TEXT-DECORATION: none; font-size : 11px; font-weight: 700;
+}
+.tm A:link {
+	COLOR: #333333; TEXT-DECORATION: none; font-size : 13px; font-weight: 700;
+}
+.tm A:visited {
+	COLOR: #333333; TEXT-DECORATION: none; font-size : 13px; font-weight: 700;
+}
+.tm A:hover {
+	COLOR: #333333; TEXT-DECORATION: none; font-size : 13px; font-weight: 700;
+}
+A:link {	COLOR: #2E6C3E; TEXT-DECORATION: none; font-size : 11px; font-weight: normal;}
+A:visited {	COLOR: #2E6C3E; TEXT-DECORATION: none; font-size : 11px; font-weight: normal;}
+A:hover {	COLOR: #FF5D00; TEXT-DECORATION: none; font-size : 11px; font-weight: normal;}
+
+
+h1 {	FONT-SIZE: 20px;  MARGIN:  17 0 7 0px; PADDING: 0 0 0 0px; COLOR: #000000;}
+h1.bb {	FONT-SIZE: 11px;  MARGIN:  0 0 0 0px; PADDING: 0 0 0 0px; font-weight: 700;}
+h2 {	FONT-SIZE: 16px; MARGIN:  5 0 15 0px; PADDING: 0 0 0 0px; COLOR: #000000;}
+
+h3 {	FONT-SIZE: 12px; MARGIN:  9 0 3 0px; PADDING: 0 0 0 0px; COLOR: #000000;}
+h4, h5, h6 {	FONT-SIZE: 11px; MARGIN:  9 0 3 0px; PADDING: 0 0 0 0px; COLOR: #000000;}
+p {	 MARGIN:  3 0 3 0px; PADDING: 0 0 0 0px; }
+li {MARGIN:  3 0 3 0px; PADDING: 0 0 0 0px; }
+UL.p_li { MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px;}
+
+#content { MARGIN:  3 20 3 33px; PADDING: 0 0 0 0px;}
+
+div#content p {	 MARGIN:  0 0 0 0px; PADDING: 7 0 7 0px; }
+div#content ul {	 MARGIN:  0 0 0 15px; PADDING: 7 0 7 0px; }
+
+#products {  MARGIN: 0 0 0 0px; PADDING: 0 0 0 10px; }
+.pbr {BACKGROUND: url(images/bg_prod.gif)  repeat-y;}
+#p_menu {  width: 200px; MARGIN:  0 0 0 0px; PADDING: 0 10 0 0px; }
+
+div#p_menu ul {
+	MARGIN: 0 0 0 0px;
+	PADDING: 0 0 0 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 11px;
+	font-weight : 700;
+}
+div#p_menu li {MARGIN:  9 0 9 0px; PADDING: 0 0 0 0px;  list-style : circle;}
+div#p_menu p { MARGIN:  7 0 7 0px; PADDING: 0 0 0 0px; }
+div#p_menu ul li A:link {	COLOR: #2E6C3E; TEXT-DECORATION: none; font-size : 11px; font-weight : 700;}
+div#p_menu ul li A:visited {	COLOR: #78AE86; TEXT-DECORATION: none; font-size : 11px; font-weight : 700;}
+div#p_menu ul li A:hover {	COLOR: #FF5D00; TEXT-DECORATION: none; font-size : 11px; font-weight : 700;}
+
+div#p_menu ul li A.here:link {	COLOR: #FF5D00; TEXT-DECORATION: none; font-size : 11px; font-weight : 700;}
+div#p_menu ul li A.here:visited {	COLOR: #FF5D00; TEXT-DECORATION: none; font-size : 11px; font-weight : 700;}
+div#p_menu ul li A.here:hover {	COLOR: #2E6C3E; TEXT-DECORATION: none; font-size : 11px; font-weight : 700;}
+
+
+#rp { MARGIN:  0 20 3 20px; PADDING: 0 0 0 0px; text-align: left;}
+#rp2 { MARGIN:  20 20 3 20px; PADDING: 0 0 0 0px;}
+div#rp2 p { MARGIN:  7 0 7 0px; PADDING: 0 0 0 25px; BACKGROUND: url(images/br_bg1.gif)  no-repeat;}
+div#rp2 A:link {	COLOR: #2E6C3E; TEXT-DECORATION: none; font-size : 11px; font-weight: normal;}
+div#rp2 A:visited {	COLOR: #2E6C3E; TEXT-DECORATION: none; font-size : 11px; font-weight: normal;}
+div#rp2 A:hover {	COLOR: #FF5D00; TEXT-DECORATION: none; font-size : 11px; font-weight: normal;}
+
+
+#search	{BACKGROUND: url(images/search_bg.gif) top no-repeat; width: 204px; height: 56px; MARGIN:  0 0 0 0px; PADDING: 0 0 0 0px; }
+#search td { margin: 0 0 0 0; padding: 3 0 3 7;}
+#search table { margin: 22 0 0 28; padding: 0 0 0 0;}	
+
+
+INPUT { font-size: 11px; }
+.text {	font-size: 11px; width: 120px; color: #298240;	font-family: Verdana, Arial, Helvetica;	height: 18px;	background-color: #ffffff;	border: 1px solid #298240; }
+.textarea {	BACKGROUND-COLOR: #ffffff;	COLOR: #298240;	FONT-FAMILY: Verdana, Arial, Helvetica;	FONT-SIZE: 11px; height: 50px;	width: 250px;	border: 1px solid #298240;}
+
+
+#copy {	float: left; color: #000000; font-family: Verdana, Tahoma, Arial; font-weight: normal; font-size: 10px; padding: 5 5 5 30px; margin: 0 0 0 0px;}
+#copy A:link {	COLOR: #000000; FONT-FAMILY: Verdana, Tahoma, Arial; FONT-WEIGHT: normal; FONT-SIZE: 10px;}
+#copy A:visited {	COLOR: #000000; FONT-FAMILY: Verdana, Tahoma, Arial; FONT-WEIGHT: normal; FONT-SIZE: 10px;}
+#copy A:hover {	COLOR: #000000; FONT-FAMILY: Verdana, Tahoma, Arial; FONT-WEIGHT: normal; FONT-SIZE: 10px;}
+
+
+#bot_menu {	float: right; font-family: Verdana, Tahoma, Arial; font-weight: normal; font-size: 10px; padding: 5 10 5 10; margin: 10 0 10 33;}
+#bot_menu A:link {	 FONT-FAMILY: Verdana, Tahoma, Arial; FONT-WEIGHT: normal; FONT-SIZE: 10px;}
+#bot_menu A:visited {	 FONT-FAMILY: Verdana, Tahoma, Arial; FONT-WEIGHT: normal; FONT-SIZE: 10px;}
+#bot_menu A:hover {	 FONT-FAMILY: Verdana, Tahoma, Arial; FONT-WEIGHT: normal; FONT-SIZE: 10px;}
+
+#content_pr { MARGIN:  0 0 0 0px; PADDING: 0 0 0 0px; color:#000000; font-size:14px;}
+#content_pr h1 { MARGIN:  0 0 20 0px; PADDING: 0 0 0 0px; color:#000000; font-size:20px; }
+#content_pr h2 { MARGIN:  0 0 16 0px; PADDING: 0 0 0 0px; color:#000000; font-size:16px; }
+#content_pr h3 { MARGIN:  0 0 16 0px; PADDING: 0 0 0 0px; color:#000000; font-size:14px; }
+#content_pr p { MARGIN:  10 0 10 0px; PADDING: 0 0 0 0px;  }
+.pr_tel {MARGIN:  0 0 20 0px; PADDING: 0 0 0 0px; color:#000000; font-size:24px;}
+.pr_adr {MARGIN:  0 0 0 0px; PADDING: 0 0 0 0px; color:#000000; font-size:14px;}

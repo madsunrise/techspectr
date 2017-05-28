@@ -19,5 +19,5 @@ class Device(models.Model):
 	title = models.CharField (max_length = 128)
 	description = models.TextField()
 	added_at = models.DateTimeField(default = datetime.datetime.now)
-	price = models.DecimalField(default=0)
+	price = models.DecimalField(max_digits=10, decimal_places=2, default=0)
 	objects = DeviceManager()
