@@ -33,7 +33,7 @@ TD
 }
 #bg_prpage
 {
-	background: #FFFFFF url(images/bg_forprint.gif) repeat-x top;
+	background: #FFFFFF url(img/bg_forprint.gif) repeat-x top;
 }
 .tl_pr
 {
@@ -42,46 +42,46 @@ TD
 }
 .bg
 {
-	background: #E9FFEE url(images/bg.gif) top;
+	background: #E9FFEE url(img/bg.gif) top;
 	width: 50px;
 }
 .tmbg
 {
-	background: url(images/bg_tm.gif) repeat-x top;
+	background: url(img/bg_tm.gif) repeat-x top;
 }
 .tmbg TD
 {
-	padding: 0 9 0 2px;
-	margin: 0 0 0 0px;
+	padding: 0 9px 0 2px;
+	margin: 0 0 0 0;
 }
 .ufbg
 {
-	background: url(images/bg_undfl.gif) repeat-x top;
+	background: url(img/bg_undfl.gif) repeat-x top;
 }
 .flash
 {
-	background: url(images/bg_fl1.gif) repeat-x;
+	background: url(img/bg_fl1.gif) repeat-x;
 	height: 106px;
 }
 .orn_b
 {
-	background: url(images/bg_orng2.gif) repeat-y top;
+	background: url(img/bg_orng2.gif) repeat-y top;
 }
 .orn_bt
 {
-	background: url(images/bg_orng1.gif) repeat-x top;
+	background: url(img/bg_orng1.gif) repeat-x top;
 }
 .orn_bb
 {
-	background: url(images/bg_orng3.gif) repeat-x top;
+	background: url(img/bg_orng3.gif) repeat-x top;
 }
 .cnt
 {
-	background: url(images/bg_content.jpg) repeat-y top left;
+	background: url(img/bg_content.jpg) repeat-y top left;
 }
 .tm
 {
-	background: url(images/bg_menu.gif) repeat-y top left;
+	background: url(img/bg_menu.gif) repeat-y top left;
 }
 A
 {
@@ -179,7 +179,7 @@ LI
 }
 UL.p_li
 {
-	list-style-image: url(images/p-li.gif);
+	list-style-image: url(img/p-li.gif);
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
@@ -205,7 +205,7 @@ DIV#content UL
 }
 .pbr
 {
-	background: url(images/bg_prod.gif) repeat-y;
+	background: url(img/bg_prod.gif) repeat-y;
 }
 #p_menu
 {
@@ -289,7 +289,7 @@ DIV#rp2 P
 {
 	margin: 7 0 7 0px;
 	padding: 0 0 0 25px;
-	background: url(images/br_bg1.gif) no-repeat;
+	background: url(img/br_bg1.gif) no-repeat;
 }
 DIV#rp2 A:link
 {
@@ -314,7 +314,7 @@ DIV#rp2 A:hover
 }
 #search
 {
-	background: url(images/search_bg.gif) no-repeat top;
+	background: url(img/search_bg.gif) no-repeat top;
 	width: 204px;
 	height: 56px;
 	margin: 0 0 0 0px;
