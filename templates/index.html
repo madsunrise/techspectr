@@ -103,6 +103,17 @@
 Уточняйте наличие по тел. (495) 649-58-05 у менеджеров.</div>
 
 
+{% for device in devices %}
+
+    <div class="device_block">
+        <h3 class="device_block__title">{{ device.title }}</h3>
+        <div class="device_block__desc">{{ device.description }}</div>
+        <div class="device_block__price">{{ device.price }}₽</div>
+    </div>
+
+{% endfor %}
+
+
 </div>
 </td>
 </tr>
@@ -112,13 +123,4 @@
 </table>
 
 
-{% for device in devices %}
 
-    <div class="device_block">
-        <h3 class="device_block__title">{{ device.title }}</h3>
-        <div class="device_block__desc">{{ device.description }}</div>
-        <div class="device_block__price">{{ device.price }}₽</div>
-    </div>
-
-
-{% endfor %}
