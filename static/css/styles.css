@@ -574,7 +574,7 @@ A:hover.pr_adr
 .device_block {
 	width: 500px;
 	margin-top: 50px;
-	border: 2px solid black;
+	border: 4px solid white;
 }
 
 .device_block__desc {
